@@ -1,0 +1,6 @@
+kind: wasmer.io/App.v0
+name: artboys-subscription-blog
+owner: artboys
+package: .
+scaling:
+  mode: single_concurrency
